@@ -1,3 +1,4 @@
+def cCipher(msg_str,shift):
     """ (str,int) --> (str)
 
     Return the msg_str parameter equivalent by converting the string to Unicode
