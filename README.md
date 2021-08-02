@@ -8,8 +8,6 @@ You're sections headers will be used to reference location of destination.
 
 - [Projects](#projects)
 - [Description](#description)
-- 
-
 
 ---
 ## Projects
@@ -38,14 +36,8 @@ You're sections headers will be used to reference location of destination.
     - Write a program that acts as a bank for the user! 
     
 - Data science apps project; choosing the better appstore based on customer reviews (apple or google play store)
-    - With the aid of the data science pipeline steps, we are going to answer the question of whether apple or google app store received better reviews and           choose which one to implement at a company
+    - With the aid of the data science pipeline steps, we are going to answer the question of whether apple or google app store received better reviews and           choose which one to implement at a company. Using kaggle.com datasets
 ---
-
-#### Technologies
-
-- Technology 1
-- Technology 2
-
 
 
 [Back To The Top](#springboard-data-science-career-track-prep-Projects)
