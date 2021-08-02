@@ -1,5 +1,5 @@
 # Springboard-data-science-career-track-prep-Projects
--In this Repository, you will find all the python projects that I worked on during the Springboard career track prep course
+- In this Repository, you will find all the python projects that I worked on during the Springboard career track prep course
 
 ---
 
