@@ -1,9 +1,6 @@
 # Springboard-data-science-career-track-prep-Projects
-# Read Me Template
 
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
+![Project Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aismartz.com%2Fblog%2Fwhy-eda-is-crucial-for-any-data-science-project%2F&psig=AOvVaw0hBfrZjFcv0SxEY2WgOulI&ust=1627988688424000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMD4mNGYkvICFQAAAAAdAAAAABAQ)
 
 ---
 
