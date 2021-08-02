@@ -8,19 +8,21 @@ You're sections headers will be used to reference location of destination.
 
 - [Projects](#projects)
 - [Description](#description)
-- [How To Use](#how-to-use)
+- 
 
 
 ---
 ## Project
-- Ceaser cipher
-- Rarebirds dictionary identifier
-
+- Ceaser cipher function (intoductoty python)
+- Rarebirds dictionary identifier (intermediate python)
+- Bank transaction fucntion (advanced python)
+- Data science apps project; choosing the better appstore based on customer reviews (apple or google play store)
 ---
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+- Ceaser cipher fucntion (introductory python)
+- - Yes
 
 #### Technologies
 
