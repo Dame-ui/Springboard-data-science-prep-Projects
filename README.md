@@ -12,7 +12,7 @@ You're sections headers will be used to reference location of destination.
 
 
 ---
-## Project
+## Projects
 - Ceaser cipher function (intoductoty python)
 - Rarebirds dictionary identifier (intermediate python)
 - Bank transaction fucntion (advanced python)
@@ -22,7 +22,20 @@ You're sections headers will be used to reference location of destination.
 ## Description
 
 - Ceaser cipher fucntion (introductory python)
-- - Yes
+    - Write a Caesar Cipher function. That is, write a function which:
+    takes two inputs, a string for the message, and an integer for the shift
+    returns a string that's just the input string with all of its characters shifted by the amount specified in the shift argument
+    for each character in the string (including punctuation marks, special characters and capital letters) gets that character's Unicode v, and replaces it by      the character with the Unicode v + shift
+    accounts for user inputs that aren't strings
+    is as elegant and efficient as possible
+    
+- Rarebirds dictionaty identifier (intermediate python)
+    -
+- Bank transaction fucntion (advanced python)
+    -
+- Data science apps project; choosing the better appstore based on customer reviews (apple or google play store)
+    -
+---
 
 #### Technologies
 
