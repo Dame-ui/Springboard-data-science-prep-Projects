@@ -7,13 +7,15 @@
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
-- [Project](#project)
+- [Projects](#projects)
 - [Description](#description)
 - [How To Use](#how-to-use)
 
 
 ---
 ## Project
+- Ceaser cipher
+- Rarebirds dictionary identifier
 
 ---
 
